@@ -1,4 +1,4 @@
-# React Blog
+# React Blog (MERN-STACK)
 
 ## Server Side (server folder)
 Express, Mongodb, Mongoose are used to built the server. Please view package.json file for to deep dive into the packages used for it
